@@ -1,0 +1,23 @@
+.login{
+    /* background-image: url('your-background-image.jpg'); */
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOR8GynEJ3z4fP3cDewF5owjojL4sOuOAITQ&usqp=CAU');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* This keeps the background fixed while scrolling */
+    height: 100vh;
+    /* background-color: rgba(255,255,255,0.8); */
+}
+.reg{
+    background-image: url('https://www.shutterstock.com/image-photo/christmas-light-background-holiday-glowing-260nw-1208157007.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: fixed;
+    height: 100vh;
+}
+.hi{
+    height: 100vh;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsWkz9Ie8PtnCbP2XRmKwh5KGzrkRUnQjuMA&usqp=CAU');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 105vh;
+}

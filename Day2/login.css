@@ -1,0 +1,56 @@
+/* login.css */
+.login {
+    background-color: #d26464;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .paper {
+    padding: 60px;
+    height: 70vh;
+    width: 280px;
+    align-items: center;
+    background-color: rgba(61, 180, 59, 0.8);
+    border-radius: 100px;
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.1);
+  }
+  
+  .avatar {
+    background-color: #1bbd7e;
+  }
+  
+  .text-field {
+    margin-bottom: 20px;
+  }
+  
+  .checkbox {
+    margin-bottom: 20px;
+  }
+  
+  .link {
+    text-decoration: none;
+  }
+  
+  .button {
+    margin: 8px 0;
+    background-color: #b61739;
+    color: #fff;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .button:hover {
+    background-color: #cc172c;
+  }
+  
+  .forgot-password-link {
+    text-decoration: none;
+    color: #757575;
+  }
+  
+  .forgot-password-link:hover {
+    color: #424242;
+  }
+  
